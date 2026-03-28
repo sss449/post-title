@@ -67,8 +67,9 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, A
     text-align: left;
 }
 .post-card {
-    width: 350px;
+    max-width: 350px;
     margin: 50px auto; 
+    width: 90%;
 }
 .like-count, .diz-count {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
